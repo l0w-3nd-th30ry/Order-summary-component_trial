@@ -1,1 +1,1 @@
-This was an attempt to create an 'order summary component' with the help from a youtube tutorial. 
+This was an attempt to create an 'order summary component' from the Frontend Mentor challenge (https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-VD2iyzp8pn) with the help from a youtube tutorial (https://www.youtube.com/watch?v=SR5GxoFhIAU&t=1303s). 
