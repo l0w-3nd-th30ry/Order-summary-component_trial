@@ -1,3 +1,1 @@
-#First Attempt
-
-This is my first attempt at creating something!
+This was an attempt to create an 'order summary component' with the help from a youtube tutorial. 
